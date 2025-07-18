@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm João Gabriel! 🇧🇷  <br>🎓 Brazilian Computer Engineering student | 🌐 Web development learner  <br><br>- 🔭 Currently working on: small JavaScript projects  <br>- 🌱 Learning React & improving GitHub portfolio  <br>- 🧠 Always curious about AI and front-end development  <br>- 🌍 Planning a Winter School trip to China focused on AI  <br>- ⚡ Fun fact: I love solving coding challenges and building things from scratch  <br>
+<br><br>Hi, I'm João Gabriel! 🇧🇷  <br>🎓 Brazilian Computer Engineering student | 🌐 Web development learner  <br><br>- 🔭 Currently working on: small JavaScript projects  <br>- 🌱 Learning React & improving GitHub portfolio  <br>- 🧠 Always curious about AI and front-end development  <br>- 🌍 Planning a Winter School trip to China focused on AI  <br>- ⚡ Fun fact: I love solving coding challenges and building things from scratch  <br>
 
 
 ## 🌐 Socials:
